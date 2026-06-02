@@ -8,4 +8,6 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  Run 'npm run build', and then push to the github, in order for the website to go live
   
