@@ -2,7 +2,7 @@ export function HistorySection() {
   return (
     <section id="history" className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl md:text-4xl text-center mb-12 text-gray-900">Ιστορία του Αστρίτσι</h2>
+        <h2 className="text-3xl md:text-4xl text-center mb-12 text-gray-900">Ιστορία του Αστριτσίου</h2>
 
         <div className="space-y-12">
           <div className="prose max-w-none">
